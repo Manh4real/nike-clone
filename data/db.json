@@ -1,0 +1,867 @@
+{
+  "products": [
+    {
+      "id": "1abc",
+      "baggedId": null,
+      "category": "Best Seller",
+      "productName": "Nike Sportswear Essential Collection",
+      "type": "shoe",
+      "gender": "female",
+      "targetObj": "Men's Shoes",
+      "colorNum": 6,
+      "price": 170,
+      "onSale": true,
+      "oldPrice": 200,
+      "sizes": [
+        6,
+        6.5,
+        7,
+        7.5,
+        8,
+        8.5,
+        9,
+        9.5,
+        10,
+        10.5,
+        11,
+        12,
+        12.5,
+        13,
+        13.5,
+        14,
+        14.5,
+        15
+      ],
+      "images": [
+        "/images/product-1.jpg",
+        "/images/product-2.jpg",
+        "/images/product-3.jpg",
+        "/images/product-4.jpg",
+        "/images/product-5.jpg",
+        "/images/product-6.jpg"
+      ]
+    },
+    {
+      "id": "2def",
+      "baggedId": null,
+      "category": "Best Seller",
+      "productName": "Nike Sportswear Essential Collection",
+      "type": "top-and-t-shirt",
+      "gender": "male",
+      "targetObj": "Men's Shoes",
+      "colorNum": 3,
+      "price": 150,
+      "onSale": false,
+      "sizes": [
+        6,
+        6.5,
+        7,
+        7.5,
+        8,
+        8.5,
+        9,
+        12,
+        12.5,
+        13
+      ],
+      "images": [
+        "/images/product-2.jpg",
+        "/images/product-1.jpg",
+        "/images/product-3.jpg"
+      ]
+    },
+    {
+      "id": "3ghi",
+      "baggedId": null,
+      "category": "Best Seller",
+      "productName": "Nike Sportswear Essential Collection",
+      "type": "shoe",
+      "gender": "male",
+      "targetObj": "Men's Shoes",
+      "colorNum": 6,
+      "price": 180,
+      "onSale": false,
+      "sizes": [
+        6,
+        6.5,
+        7,
+        7.5,
+        9,
+        9.5,
+        10,
+        10.5,
+        11,
+        11.5,
+        12
+      ],
+      "images": [
+        "/images/product-3.jpg",
+        "/images/product-2.jpg",
+        "/images/product-1.jpg",
+        "/images/product-4.jpg",
+        "/images/product-5.jpg",
+        "/images/product-6.jpg"
+      ]
+    },
+    {
+      "id": "4jkl",
+      "baggedId": null,
+      "category": "Best Seller",
+      "productName": "Nike Sportswear Essential Collection",
+      "type": "pant",
+      "gender": "girl",
+      "targetObj": "Men's Shoes",
+      "colorNum": 1,
+      "price": 100,
+      "onSale": true,
+      "oldPrice": 200,
+      "sizes": [
+        9,
+        9.5,
+        10,
+        10.5,
+        11,
+        11.5,
+        13.5,
+        14,
+        14.5,
+        15
+      ],
+      "images": [
+        "/images/product-4.jpg"
+      ]
+    },
+    {
+      "id": "5mno",
+      "baggedId": null,
+      "category": "",
+      "productName": "Nike Sportswear Essential Collection",
+      "type": "shoe",
+      "gender": "female",
+      "targetObj": "Men's Shoes",
+      "colorNum": 2,
+      "price": 200,
+      "onSale": false,
+      "sizes": [
+        6,
+        6.5,
+        7,
+        7.5,
+        8,
+        8.5,
+        9,
+        9.5,
+        10,
+        10.5,
+        11,
+        11.5,
+        12,
+        12.5,
+        13,
+        13.5,
+        14,
+        14.5,
+        15
+      ],
+      "images": [
+        "/images/product-5.jpg",
+        "/images/product-2.jpg"
+      ]
+    },
+    {
+      "id": "6pqr",
+      "baggedId": null,
+      "category": "Best Seller",
+      "productName": "Nike Sportswear Essential Collection",
+      "type": "short",
+      "gender": "male",
+      "targetObj": "Men's Shoes",
+      "colorNum": 5,
+      "price": 90,
+      "onSale": false,
+      "sizes": [
+        6,
+        6.5,
+        7,
+        7.5,
+        8,
+        8.5,
+        9,
+        9.5,
+        10,
+        11.5,
+        12,
+        12.5,
+        13,
+        13.5,
+        14,
+        14.5,
+        15
+      ],
+      "images": [
+        "/images/product-6.jpg",
+        "/images/product-2.jpg",
+        "/images/product-3.jpg",
+        "/images/product-4.jpg",
+        "/images/product-5.jpg"
+      ]
+    },
+    {
+      "id": "7stu",
+      "baggedId": null,
+      "category": "",
+      "productName": "Nike Sportswear Essential Collection",
+      "type": "shoe",
+      "gender": "male",
+      "targetObj": "Men's Shoes",
+      "colorNum": 2,
+      "price": 350,
+      "onSale": false,
+      "sizes": [
+        6.5,
+        7,
+        7.5,
+        8,
+        8.5,
+        9,
+        9.5,
+        10,
+        10.5,
+        11,
+        11.5,
+        12,
+        12.5,
+        13,
+        13.5,
+        14,
+        14.5,
+        15
+      ],
+      "images": [
+        "/images/product-7.jpg",
+        "/images/product-2.jpg"
+      ]
+    },
+    {
+      "id": "8vwx",
+      "baggedId": null,
+      "category": "Best Seller",
+      "productName": "Nike Sportswear Essential Collection",
+      "type": "shoe",
+      "gender": "male",
+      "targetObj": "Men's Shoes",
+      "colorNum": 1,
+      "price": 1000,
+      "onSale": true,
+      "oldPrice": 1300,
+      "sizes": [
+        6,
+        6.5,
+        7.5,
+        8,
+        8.5,
+        9,
+        9.5,
+        10,
+        10.5,
+        11,
+        11.5,
+        12,
+        12.5,
+        13,
+        13.5,
+        14,
+        14.5,
+        15
+      ],
+      "images": [
+        "/images/product-8.jpg"
+      ]
+    },
+    {
+      "id": "9yza",
+      "baggedId": null,
+      "category": "Best Seller",
+      "productName": "Nike Sportswear Essential Collection",
+      "type": "accessory",
+      "gender": "female",
+      "targetObj": "Men's Shoes",
+      "colorNum": 4,
+      "price": 75,
+      "onSale": false,
+      "sizes": [
+        6,
+        6.5,
+        7,
+        7.5,
+        8,
+        9,
+        9.5,
+        10,
+        10.5,
+        11,
+        11.5,
+        12,
+        12.5,
+        13,
+        13.5,
+        14,
+        14.5,
+        15
+      ],
+      "images": [
+        "/images/product-9.jpg",
+        "/images/product-2.jpg",
+        "/images/product-3.jpg",
+        "/images/product-4.jpg"
+      ]
+    },
+    {
+      "id": "10bcd",
+      "baggedId": null,
+      "category": "Best Seller",
+      "productName": "Nike Sportswear Essential Collection",
+      "type": "shoe",
+      "gender": "boy",
+      "targetObj": "Men's Shoes",
+      "colorNum": 6,
+      "price": 100,
+      "onSale": false,
+      "sizes": [
+        6,
+        6.5,
+        7,
+        7.5,
+        8,
+        8.5,
+        9,
+        9.5,
+        10,
+        10.5,
+        11,
+        11.5,
+        12,
+        12.5,
+        13,
+        13.5,
+        14,
+        14.5,
+        15
+      ],
+      "images": [
+        "/images/product-1.jpg",
+        "/images/product-2.jpg",
+        "/images/product-3.jpg",
+        "/images/product-4.jpg",
+        "/images/product-5.jpg",
+        "/images/product-6.jpg"
+      ]
+    },
+    {
+      "id": "11efg",
+      "baggedId": null,
+      "category": "",
+      "productName": "Nike Sportswear Essential Collection",
+      "type": "shoe",
+      "gender": "male",
+      "targetObj": "Men's Shoes",
+      "colorNum": 1,
+      "price": 170,
+      "onSale": false,
+      "sizes": [
+        6,
+        6.5,
+        7,
+        7.5,
+        8,
+        8.5,
+        9,
+        9.5,
+        10,
+        10.5,
+        11,
+        11.5,
+        12,
+        12.5,
+        13,
+        13.5,
+        14,
+        14.5,
+        15
+      ],
+      "images": [
+        "/images/product-5.jpg"
+      ]
+    },
+    {
+      "id": "12hij",
+      "baggedId": null,
+      "category": "Best Seller",
+      "productName": "Nike Sportswear Essential Collection",
+      "type": "shoe",
+      "gender": "unisex",
+      "targetObj": "Men's Shoes",
+      "colorNum": 1,
+      "price": 170,
+      "onSale": true,
+      "oldPrice": 200,
+      "sizes": [
+        6,
+        6.5,
+        7,
+        7.5,
+        8,
+        8.5,
+        9,
+        9.5,
+        10,
+        10.5,
+        11,
+        11.5,
+        12,
+        12.5,
+        13,
+        13.5,
+        14,
+        14.5,
+        15
+      ],
+      "images": [
+        "/images/product-8.jpg"
+      ]
+    }
+  ],
+  "users": [
+    {
+      "id": "_cphqyh7_eda30ul",
+      "email": "nguyenvanmanh@gmail.com",
+      "password": "abcASD123",
+      "name": {
+        "firstName": "Manh",
+        "lastName": "Nguyen"
+      },
+      "birthday": "2001-10-30",
+      "country": "US",
+      "withEmail": false,
+      "favorites": [
+        {
+          "id": "4jkl",
+          "category": "Best Seller",
+          "productName": "Nike Sportswear Essential Collection",
+          "type": "pant",
+          "gender": "girl",
+          "targetObj": "Men's Shoes",
+          "colorNum": 1,
+          "price": 100,
+          "onSale": true,
+          "oldPrice": 200,
+          "sizes": [
+            9,
+            9.5,
+            10,
+            10.5,
+            11,
+            11.5,
+            13.5,
+            14,
+            14.5,
+            15
+          ],
+          "images": [
+            "/images/product-4.jpg"
+          ],
+          "added": {
+            "favoriteId": "_hlmlwdx",
+            "colorId": "0",
+            "size": 14.5,
+            "quanity": 1
+          }
+        },
+        {
+          "id": "7stu",
+          "category": "",
+          "productName": "Nike Sportswear Essential Collection",
+          "type": "shoe",
+          "gender": "male",
+          "targetObj": "Men's Shoes",
+          "colorNum": 2,
+          "price": 350,
+          "onSale": false,
+          "sizes": [
+            6.5,
+            7,
+            7.5,
+            8,
+            8.5,
+            9,
+            9.5,
+            10,
+            10.5,
+            11,
+            11.5,
+            12,
+            12.5,
+            13,
+            13.5,
+            14,
+            14.5,
+            15
+          ],
+          "images": [
+            "/images/product-7.jpg",
+            "/images/product-2.jpg"
+          ],
+          "added": {
+            "favoriteId": "_7ml5qku",
+            "colorId": "0",
+            "size": 15,
+            "quanity": 1
+          }
+        }
+      ],
+      "bag": []
+    },
+    {
+      "id": "_m0hdsnv_455u1tz",
+      "email": "nguyennam2000@gmail.com",
+      "password": "abcABC123",
+      "name": {
+        "firstName": "Nam",
+        "lastName": "Nguyen"
+      },
+      "birthday": "2022-02-06",
+      "country": "US",
+      "withEmail": false,
+      "favorites": [
+        {
+          "id": "1abc",
+          "category": "Best Seller",
+          "productName": "Nike Sportswear Essential Collection",
+          "type": "shoe",
+          "gender": "female",
+          "targetObj": "Men's Shoes",
+          "colorNum": 6,
+          "price": 170,
+          "onSale": true,
+          "oldPrice": 200,
+          "sizes": [
+            6,
+            6.5,
+            7,
+            7.5,
+            8,
+            8.5,
+            9,
+            9.5,
+            10,
+            10.5,
+            11,
+            12,
+            12.5,
+            13,
+            13.5,
+            14,
+            14.5,
+            15
+          ],
+          "images": [
+            "/images/product-1.jpg",
+            "/images/product-2.jpg",
+            "/images/product-3.jpg",
+            "/images/product-4.jpg",
+            "/images/product-5.jpg",
+            "/images/product-6.jpg"
+          ],
+          "added": {
+            "favoriteId": "_hbn29ev",
+            "colorId": 3,
+            "size": 15,
+            "quanity": 1
+          }
+        }
+      ],
+      "bag": []
+    },
+    {
+      "id": "_w8vsojn_9bf62nm",
+      "email": "nguyenthang@gmail.com",
+      "password": "abcABC123",
+      "name": {
+        "firstName": "Thang",
+        "lastName": "nguyen"
+      },
+      "birthday": "2022-02-12",
+      "country": "US",
+      "withEmail": false,
+      "favorites": [
+        {
+          "id": "7stu",
+          "category": "",
+          "productName": "Nike Sportswear Essential Collection",
+          "type": "shoe",
+          "gender": "male",
+          "targetObj": "Men's Shoes",
+          "colorNum": 2,
+          "price": 350,
+          "onSale": false,
+          "sizes": [
+            6.5,
+            7,
+            7.5,
+            8,
+            8.5,
+            9,
+            9.5,
+            10,
+            10.5,
+            11,
+            11.5,
+            12,
+            12.5,
+            13,
+            13.5,
+            14,
+            14.5,
+            15
+          ],
+          "images": [
+            "/images/product-7.jpg",
+            "/images/product-2.jpg"
+          ],
+          "added": {
+            "favoriteId": "_2ai9bie",
+            "colorId": "0",
+            "size": 15,
+            "quanity": 1
+          }
+        },
+        {
+          "id": "12hij",
+          "category": "Best Seller",
+          "productName": "Nike Sportswear Essential Collection",
+          "type": "shoe",
+          "gender": "unisex",
+          "targetObj": "Men's Shoes",
+          "colorNum": 1,
+          "price": 170,
+          "onSale": true,
+          "oldPrice": 200,
+          "sizes": [
+            6,
+            6.5,
+            7,
+            7.5,
+            8,
+            8.5,
+            9,
+            9.5,
+            10,
+            10.5,
+            11,
+            11.5,
+            12,
+            12.5,
+            13,
+            13.5,
+            14,
+            14.5,
+            15
+          ],
+          "images": [
+            "/images/product-8.jpg"
+          ],
+          "added": {
+            "favoriteId": "_o1s1i7x",
+            "colorId": "0",
+            "size": 9,
+            "quanity": 1
+          }
+        },
+        {
+          "id": "4jkl",
+          "category": "Best Seller",
+          "productName": "Nike Sportswear Essential Collection",
+          "type": "pant",
+          "gender": "girl",
+          "targetObj": "Men's Shoes",
+          "colorNum": 1,
+          "price": 100,
+          "onSale": true,
+          "oldPrice": 200,
+          "sizes": [
+            9,
+            9.5,
+            10,
+            10.5,
+            11,
+            11.5,
+            13.5,
+            14,
+            14.5,
+            15
+          ],
+          "images": [
+            "/images/product-4.jpg"
+          ],
+          "added": {
+            "favoriteId": "_tgq8egz",
+            "colorId": "0",
+            "size": 14.5,
+            "quanity": 1
+          }
+        },
+        {
+          "added": {
+            "favoriteId": "_9x71la0",
+            "bagId": "_po2akxb",
+            "colorId": "0",
+            "size": 14,
+            "quanity": 1
+          },
+          "id": "9yza",
+          "category": "Best Seller",
+          "productName": "Nike Sportswear Essential Collection",
+          "type": "accessory",
+          "gender": "female",
+          "targetObj": "Men's Shoes",
+          "colorNum": 4,
+          "price": 75,
+          "onSale": false,
+          "sizes": [
+            6,
+            6.5,
+            7,
+            7.5,
+            8,
+            9,
+            9.5,
+            10,
+            10.5,
+            11,
+            11.5,
+            12,
+            12.5,
+            13,
+            13.5,
+            14,
+            14.5,
+            15
+          ],
+          "images": [
+            "/images/product-9.jpg",
+            "/images/product-2.jpg",
+            "/images/product-3.jpg",
+            "/images/product-4.jpg"
+          ]
+        }
+      ],
+      "bag": [],
+      "registrationTime": 1644665202923
+    },
+    {
+      "email": "evil_damn@gmail.com",
+      "password": "abcABC123",
+      "name": {
+        "firstName": "Evil",
+        "lastName": "Damn"
+      },
+      "birthday": "2022-03-03",
+      "country": "US",
+      "withEmail": false,
+      "id": "sQ0RAhqqifxlG9TBs0Wnf",
+      "registrationTime": 1646289041642,
+      "favorites": [],
+      "bag": []
+    }
+  ],
+  "images": [
+    {
+      "id": "1",
+      "url": "/a/images/product-1.jpg"
+    },
+    {
+      "id": "2",
+      "url": "/a/images/product-2.jpg"
+    },
+    {
+      "id": "3",
+      "url": "/a/images/product-3.jpg"
+    },
+    {
+      "id": "4",
+      "url": "/a/images/product-4.jpg"
+    },
+    {
+      "id": "5",
+      "url": "/a/images/product-5.jpg"
+    },
+    {
+      "id": "6",
+      "url": "/a/images/product-6.jpg"
+    },
+    {
+      "id": "7",
+      "url": "/a/images/product-7.jpg"
+    },
+    {
+      "id": "8",
+      "url": "/a/images/product-8.jpg"
+    },
+    {
+      "id": "9",
+      "url": "/a/images/product-9.jpg"
+    },
+    {
+      "id": "10",
+      "url": "/a/images/af-1-1-mens-shoes-kcdPxn.jfif"
+    },
+    {
+      "id": "11",
+      "url": "/a/images/air-force-1-fontanka-womens-shoes-L41zBh.jfif"
+    },
+    {
+      "id": "12",
+      "url": "/a/images/air-force-1-lv8-big-kids-shoes-NBpsc3.jfif"
+    },
+    {
+      "id": "13",
+      "url": "/a/images/air-force-1-lv8-big-kids-shoes-NSNB97.jfif"
+    },
+    {
+      "id": "14",
+      "url": "/a/images/card.jpg"
+    },
+    {
+      "id": "15",
+      "url": "/a/images/bg.jpg"
+    },
+    {
+      "id": "16",
+      "url": "/a/images/detail.jpg"
+    },
+    {
+      "id": "17",
+      "url": "/a/images/detail2.jpg"
+    },
+    {
+      "id": "18",
+      "url": "/a/images/member-benefits-1.jpg"
+    },
+    {
+      "id": "19",
+      "url": "/a/images/nike-just-do-it (1).jpg"
+    },
+    {
+      "id": "20",
+      "url": "/a/images/nike-just-do-it (2).jpg"
+    },
+    {
+      "id": "21",
+      "url": "/a/images/nike-just-do-it.jpg"
+    },
+    {
+      "id": "22",
+      "url": "/a/images/paypal@2x.jpg"
+    }
+  ]
+}

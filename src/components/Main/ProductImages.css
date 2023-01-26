@@ -1,0 +1,24 @@
+.changable-images {
+  display: flex;
+  gap: 0 5px;
+  animation: floatIn 0.5s ease-out;
+}
+
+.changable-images img {
+  cursor: pointer;
+}
+
+@keyframes floatIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+@media screen and (max-width: 900px) {
+  .changable-images img {
+    width: 30px !important;
+  }
+}
