@@ -12,7 +12,6 @@ export const fetchUser = createAsyncThunk("user/fetchUser", async function () {
   const id = JSON.parse(localStorage.getItem("currentUser_Redux"));
 
   if (id) {
-    console.log("??");
     let response;
     try {
       const res = await api.get(`users/${id}`);
@@ -123,7 +122,9 @@ const userSlice = createSlice({
         state.status = "loading";
       })
       .addCase(fetchUser.fulfilled, (state, action) => {
-        state.status = "succeeded";
+        if(action.payload) {
+          state.status = "succeeded";
+        }
 
         if (!action.payload) return state;
 

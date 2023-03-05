@@ -45,7 +45,7 @@ const AccountMenu = () => {
 };
 
 const list = [
-  { path: "/profile", text: "Profile" },
+  { path: "/account", text: "Profile" },
   { path: "/orders", text: "Orders" },
   { path: "/favorites", text: "Favorites" },
   { path: "/inbox", text: "Inbox" },
